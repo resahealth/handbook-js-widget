@@ -1,0 +1,51 @@
+  .response-label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #1a202c;
+  }
+  
+  .mt-2 {
+    margin-top: 0.5rem;
+  }
+  
+  .response-textarea {
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 0.375rem;
+    color: #1a202c;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    outline: none;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    resize: vertical;
+    transition: all 0.15s ease-in-out;
+  }
+  
+  .response-textarea::placeholder {
+    color: #a0aec0;
+  }
+  
+  .response-textarea:focus {
+    border: 1px solid #a0aec0;
+    box-shadow: 0 0 0 2px rgba(94, 114, 228, 0.5);
+  }
+
+  .login-google-button {
+    background-color: #db4437;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .login-google-button:hover {
+    background-color: #c53929;
+  }
+  
