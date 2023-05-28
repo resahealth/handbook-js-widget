@@ -1,6 +1,6 @@
 {
   "name": "handbook-js-widget",
-  "version": "1.9.55",
+  "version": "1.9.56",
   "description": "",
   "main": "my-widget.js",
   "scripts": {
